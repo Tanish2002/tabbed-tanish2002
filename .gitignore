@@ -4,3 +4,5 @@
 tabbed
 *.o
 xembed
+flake.lock
+result
